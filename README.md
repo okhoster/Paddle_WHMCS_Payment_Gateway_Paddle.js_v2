@@ -3,7 +3,7 @@
 [![PHP 8.1 - 8.3](https://img.shields.io/badge/PHP-8.1%20--%208.3-blue.svg)](https://www.php.net/)
 [![WHMCS Compatibility](https://img.shields.io/badge/WHMCS-8.10.1%20%7C%2010.13.0-green.svg)](https://www.whmcs.com/)
 [![Paddle Billing](https://img.shields.io/badge/Paddle-Billing%20API-orange.svg)](https://developer.paddle.com/)
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-purple.svg)]()
+[![License: GPL-3.0 license](https://img.shields.io/badge/License-Proprietary-purple.svg)]()
 
 Production-ready, highly secure **Paddle Billing** (Paddle's current platform) payment gateway module for **WHMCS**.
 
